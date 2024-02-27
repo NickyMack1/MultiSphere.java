@@ -7,11 +7,6 @@ class Sphere {
         this.diameter = diameter;
     }
 
-    // Getter method for diameter
-    public double getDiameter() {
-        return diameter;
-    }
-
     // Setter method for diameter
     public void setDiameter(double diameter) {
         this.diameter = diameter;
